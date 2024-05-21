@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# [2020] Tic Tac Toe
 ## Introduction
 Tic Tac Toe is a recreation of the traditional Tic-Tac-Toe game based on terminal. This program provides two modes that not only allows user to play with each other but also with built-in virtual user(computer). In other words, users/players can choose between PvP or PvC when executing the program. The requirements include:
 - [x] Develop a Tic Tac Toe game based on terminal with the game board UI and detailed instructions
